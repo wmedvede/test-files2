@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>demo</groupId>
-  <artifactId>large-project</artifactId>
+  <artifactId>large-project2</artifactId>
   <version>1.0</version>
   <packaging>kjar</packaging>
-  <name>large-project</name>
+  <name>large-project2</name>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
